@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.sql
+node_modules
+logs
+logstmp
+npm-debug.log
